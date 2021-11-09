@@ -1,0 +1,11 @@
+Compiler:
+1.Compiler scans the whole program in one go.
+2.It converts the source code into object code.
+3.Main advantage of compilers is it’s execution time.
+4.It does not require source code for later execution.
+
+Interpreter:
+1.Translates program one statement at a time.
+2.It does not convert source code into object code instead it scans it line by line.
+3.Due to interpreters being slow in executing the object code, it is preferred less.
+4.It requires source code for later execution.
